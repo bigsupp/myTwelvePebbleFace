@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bigsupp@gmail.com",
+    "longName": "myTwelve",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "myTwelve",
+    "uuid": "6a189d1b-452b-4768-985c-722efb77eb16",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
